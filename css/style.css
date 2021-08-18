@@ -1,19 +1,28 @@
-header {
-    background-color:coral
+body {
+    background:lightcoral
 }
 
+
 h1 {
-    background-color:cyan
+    background-color:lightcyan;
+    color:hotpink
 }
 
 .first {
-    background-color:pink
+    background-color:cyan;
+    color:darkgray;
 }
 
+h2 {
+    background-color:lightseagreen;
+    color:gray;
+}
 .second {
-    background-color:seagreen
+    background-color:lightpink;
+    color:purple;
 }
 
 ol {
-    background-color:yellow
+    background-color:lightyellow;
+    color:darkmagenta;
 }
